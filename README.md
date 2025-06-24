@@ -66,8 +66,6 @@ In my free time, I explore concepts in **System Design**, read tech blogs, or di
 
 ---
 
----
-
 ### 🌐 Let’s Connect
 
 <p align="center">
