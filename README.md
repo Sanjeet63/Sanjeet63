@@ -31,8 +31,7 @@ My strongest suit is **Data Structures & Algorithms**, and I consistently partic
 In my free time, I explore concepts in **System Design**, read tech blogs, or dive into open-source tools.
 
 - ⚙️ Core: DSA • Backend Development • REST APIs  
-- 🌱 Learning: System Design • Clean Architecture • DevOps Basics  
-- 🧠 Long-Term Vision: Design scalable, real-world systems  
+- 🌱 Learning: System Design • Clean Architecture • Machine Learning
 - 📬 Reach me at: `sanjeet22444@iiitd.ac.in`
 
 ---
