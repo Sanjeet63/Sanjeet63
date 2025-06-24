@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm <span style="color:#f97316;">Sanjeet Kumar Patel</span></h1>
 <h3>B.Tech @ IIIT Delhi | Full-Stack Developer | Competitive Programmer | System Design Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=16F2B3&center=true&vCenter=true&width=480&lines=Full-Stack+Dev+%7C+DSA+%7C+System+Design;Competitive+Programmer+%7C+Open+Source+Explorer;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=16F2B3&center=true&vCenter=true&width=480&lines=Full-Stack+Dev+%7C+DSA+%7C+System+Design;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
 </div>
 
