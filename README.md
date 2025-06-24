@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **third-year undergrad at IIIT Delhi** majoring in **Computer Science & Applied Mathematics**, passionate about **solving real problems through code** and designing systems that scale.
+I’m a **third-year undergrad at IIIT Delhi** majoring in **Computer Science & Applied Mathematics**, passionate about **solving real problems through programming** and designing systems that scale.
 
 My strongest suit is **Data Structures & Algorithms**, and I consistently participate in coding contests across platforms. I also love building **full-stack web apps**, from frontend interfaces to backend APIs and databases.  
 In my free time, I explore concepts in **System Design**, read tech blogs, or dive into open-source tools.
